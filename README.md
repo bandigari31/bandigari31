@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bandigari pranisha
 - 👀 I’m interested in programming in java
-- 🌱 I’m currently learning java, python and jsp
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
